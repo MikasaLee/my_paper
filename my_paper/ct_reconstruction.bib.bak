@@ -1,0 +1,13 @@
+% Encoding: UTF-8
+
+@Article{2017Low,
+  author  = {Hu, C. and Yi, Z. and Kalra, M. K. and Feng, L. and Yang, C. and Liao, P. and Zhou, J. and Ge, W.},
+  journal = {IEEE Transactions on Medical Imaging},
+  title   = {Low-Dose CT with a Residual Encoder-Decoder Convolutional Neural Network (RED-CNN)},
+  year    = {2017},
+  number  = {99},
+  pages   = {2524-2535},
+  volume  = {36},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

@@ -1,0 +1,108 @@
+\begin{thebibliography}{10}
+
+\bibitem{redcnn}
+Hu~Chen, Yi~Zhang, Mannudeep Kalra, Feng Lin, Yang Chen, Peixi Liao, Jiliu
+  Zhou, and Ge~Wang.
+\newblock Low-dose ct with a residual encoder-decoder convolutional neural
+  network.
+\newblock {\em IEEE Transactions on Medical Imaging}, 36:2524--2535, 06 2017.
+
+\bibitem{2017Xception}
+F.~Chollet.
+\newblock Xception: Deep learning with depthwise separable convolutions.
+\newblock In {\em 2017 IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, 2017.
+
+\bibitem{2020ADAPTIVE}
+Y.~Ge, T.~Su, J.~Zhu, X.~Deng, Q.~Zhang, J.~Chen, Z.~Hu, H.~Zheng, and
+  D.~Liang.
+\newblock Adaptive-net: deep computed tomography reconstruction network with
+  analytical domain transformation knowledge.
+\newblock {\em Quantitative Imaging in Medicine and Surgery}, 10(2), 2020.
+
+\bibitem{hendrycks2016gelu}
+Dan Hendrycks and Kevin Gimpel.
+\newblock Gaussian error linear units (gelus).
+\newblock {\em arXiv preprint arXiv:1606.08415}, 2016.
+
+\bibitem{2016DenseNet}
+G.~Huang, Z.~Liu, Vdm Laurens, and K.~Q. Weinberger.
+\newblock Densely connected convolutional networks.
+\newblock {\em IEEE Computer Society}, 2016.
+
+\bibitem{2016FBPConvNet}
+K.~H. Jin, M.~T. Mccann, E.~Froustey, and M.~Unser.
+\newblock Deep convolutional neural network for inverse problems in imaging.
+\newblock {\em IEEE Transactions on Image Processing}, PP(99):4509--4522, 2016.
+
+\bibitem{kak2001principles}
+Avinash~C Kak and Malcolm Slaney.
+\newblock {\em Principles of computerized tomographic imaging}.
+\newblock SIAM, 2001.
+
+\bibitem{2014Adam}
+D.~Kingma and J.~Ba.
+\newblock Adam: A method for stochastic optimization.
+\newblock {\em Computer Science}, 2014.
+
+\bibitem{2017Fast}
+W.~S. Lai, J.~B. Huang, N.~Ahuja, and M.~H. Yang.
+\newblock Fast and accurate image super-resolution with deep laplacian pyramid
+  networks.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  2017.
+
+\bibitem{liu2021Swin}
+Ze~Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, and
+  Baining Guo.
+\newblock Swin transformer: Hierarchical vision transformer using shifted
+  windows.
+\newblock {\em International Conference on Computer Vision (ICCV)}, 2021.
+
+\bibitem{2013Rectifier}
+Andrew~L Maas, Awni~Y Hannun, and Andrew~Y Ng.
+\newblock Rectifier nonlinearities improve neural network acoustic models.
+\newblock 2013.
+
+\bibitem{moen2021low}
+Taylor~R Moen, Baiyu Chen, David~R Holmes~III, Xinhui Duan, Zhicong Yu, Lifeng
+  Yu, Shuai Leng, Joel~G Fletcher, and Cynthia~H McCollough.
+\newblock Low-dose ct image and projection dataset.
+\newblock {\em Medical physics}, 48(2):902--911, 2021.
+
+\bibitem{2015Unet}
+O.~Ronneberger, P.~Fischer, and T.~Brox.
+\newblock U-net: Convolutional networks for biomedical image segmentation.
+\newblock {\em Springer International Publishing}, 2015.
+
+\bibitem{2014Dropout}
+Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan
+  Salakhutdinov.
+\newblock Dropout: A simple way to prevent neural networks from overfitting.
+\newblock {\em Journal of Machine Learning Research}, 15(1):1929--1958, 2014.
+
+\bibitem{2020An}
+W.~Wang, X.~G. Xia, C.~He, Z.~Ren, and B.~Lei.
+\newblock An end-to-end deep network for reconstructing ct images directly from
+  sparse sinograms.
+\newblock {\em IEEE Transactions on Computational Imaging}, 6:1548--1560, 2020.
+
+\bibitem{wang2021uformer}
+Zhendong Wang, Xiaodong Cun, Jianmin Bao, and Jianzhuang Liu.
+\newblock Uformer: A general u-shaped transformer for image restoration.
+\newblock {\em arXiv preprint 2106.03106}, 2021.
+
+\bibitem{2019DP-ResNet}
+Xiangrui Yin, Qianlong Zhao, Jin Liu, Wei Yang, Jian Yang, Guotao Quan, Yang
+  Chen, Huazhong Shu, Limin Luo, and Jean-Louis Coatrieux.
+\newblock Domain progressive 3d residual convolution network to improve
+  low-dose ct imaging.
+\newblock {\em IEEE Transactions on Medical Imaging}, 38(12):2903--2913, 2019.
+
+\bibitem{2018DDNet}
+Zhicheng Zhang, Xiaokun Liang, Xu~Dong, Yaoqin Xie, and Guohua Cao.
+\newblock A sparse-view ct reconstruction method based on combination of
+  densenet and deconvolution.
+\newblock {\em IEEE Transactions on Medical Imaging}, 37(6):1407--1417, 2018.
+
+\end{thebibliography}

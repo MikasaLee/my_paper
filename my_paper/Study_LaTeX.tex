@@ -1,0 +1,89 @@
+% Hello World
+%\documentclass{article} 
+%\begin{document}
+%	Hello World
+%\end{document}
+
+% 英文推荐 pdflatex 编译，中文推荐 xelatex 编译
+
+%% 中文的Hello World
+%\documentclass{ctexart}
+%\begin{document}
+%	今天你吃了么
+%\end{document}
+
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{siunitx}
+\bibliographystyle{plain}
+\begin{document}
+	text$ a^3_3 + b = c $text
+	
+	text$$ a + b = c $$text
+	
+%	教程中不推荐使用$$，而是用\[\]
+	text\[ a + b = c\]text
+	
+\begin{equation}
+	a + b = c
+\end{equation}
+	
+\begin{align*}
+	2^5 &= (1+1)^5 \\
+	&= \begin{multlined}[t]
+		\binom50\cdot 1^5 + \binom51\cdot 1^4 \cdot 1
+		+ \binom52\cdot 1^3 \cdot 1^2 \\
+		+ \binom53\cdot 1^2 \cdot 1^3
+		+ \binom54\cdot 1 \cdot 1^4 + \binom55\cdot 1^5
+	\end{multlined} \\
+	&= \binom50 + \binom51 + \binom52 + \binom53
+	+ \binom54 + \binom55
+\end{align*}
+
+\num{-1.235e96} \\
+\SI{299792458}{m/s} \\
+\SI{2x7x3.5}{m}
+
+
+\begin{tabular}{|S|}\hline
+	-234532\\ 13.55 \\ .9e37km \\
+	\hline
+\end{tabular}
+
+
+
+\begin{enumerate}
+	\item aaa
+	\item aaa
+	\item aaa
+	\item aaa
+	\item aaa
+	\item aaa
+\end{enumerate}
+
+
+\begin{verbatim}
+#include <stdio>
+int main(){
+    puts("hello world.");
+}
+\end{verbatim}
+
+
+\begin{tabular}{|rr|}
+	\hline
+	输入& 输出\\ \hline
+	$-2$ & 4 \\
+	0 & 0 \\
+	2 & 4 \\ \hline
+\end{tabular}
+
+% 画表格的好工具 https://www.tablesgenerator.com/
+
+\includegraphics[width=7cm]{/home/mikasalee/Downloads/yukino1.jpeg}
+ 
+a\cite{7947200}
+
+\bibliography{ct_reconstruction}
+\end{document}

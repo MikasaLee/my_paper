@@ -1,0 +1,25 @@
+\section{Experiments}
+\subsection{数据集和实验环境}
+我们使用的是由梅奥诊所(Mayo clinic)在2020年提供的"\emph{Low Dose CT Image and Projection Data (LDCT-and-Projection-data)}"\cite{moen2021low}公共数据集。其图像数据集总共包含25908张1mm厚度全剂量CT图片来自总共150个病例。参考图像是使用FBP方法从512个投影视图生成的，我们简单地将投影数据下采样到128和64个视图，以模拟采样率分别为1/4和1/8的稀疏视图情况。150个病例分别为50个头部病例，50个胸部病例和50个腹部病例。我们将随机选取40个头部病例，40个胸部病例以及40个腹部病例作为训练集 以及 选取个头部病例，5个胸部病例以及5个腹部病例作为验证集，再将剩下的5个头部病例，5个胸部病例以及5个腹部病例作为测试集。\par
+(自己网络的参数。。)\par
+我们对比了近几年几种基于深度学习的方法的其他性能，包括FBPConvNet\cite{2016FBPConvNet}，DD-Net\cite{2018DDNet},DP-ResNet\cite{2019DP-ResNet},Adaptive-Net\cite{2020ADAPTIVE},EEDeepNet\cite{2020An}（(后续可能补充其他网络以及自己的消融实验)。FBPConvNet是一种后处理方法，采用U-Net\cite{2015Unet}来减少FBP重构中的伪影。DD-Net结合了DenseNet\cite{2016DenseNet}和反卷积的优点，采用快捷连接将DenseNet和反卷积连接起来，提高了网络的训练速度。DP-ResNet是一种用于CT图像重建的双域网络。该算法在投影域和图像域分别对输入的测量数据进行处理，并使用FBP连接两个子网络。EEDeepNet是一种用于CT图像重建的端到端深度网络，该网络直接将稀疏的正炫图映射到CT图像上，因为原论文中并没有对其提出的网络起名，所以我们将其论文的标题“End-to-End Deep Network”简写为EEDeepNet来表示该论文所提出的网络。所有对比实验的训练参数都充分参考原论文或代码中的设置。PLFormer是由Adam算法\cite{2014Adam}训练的，学习率从初值$3\times10^{-4}$缓慢下降到$10^{-6}$。mini-batch的size设为4。采用峰值信噪比(PSNR)和结构相似性指数(SSIM)来评价所有方法的性能。实验环境为Python3.8+PyTorch1.7.1在PC上(Ubuntu20.04+Intel Xeon Silver 4210R CPU + 64G RAM 以及 两张 NVIDIA RTX A5000)，并且使用PyTorch提供的DistributedDataParallel(DDP)去尽可能的缩短训练时间。所有工作的代码我们放在(github)上。\par
+\subsection{性能评价结果}
+采用不同的基于深度学习的方法对整个测试集的统计定量结果如表1所示，给出了PSNR和SSIM的均值和方差。\ref{tab1}
+\begin{table}[H]
+	\centering
+	\begin{tabular}{lllllll}  	
+		\toprule   	
+		method & PSNR & SSIM \\  	
+		\midrule   	
+		FBP & 24.8415$\pm$0.2952 & 0.5076$\pm$0.0114   \\  
+		bilinear+FBP & 25.0514$\pm$0.2593 &  0.6683$\pm$0.0221   \\  
+		FBPConvNet & 34.1223$\pm$0.4181 & 0.8637$\pm$0.0111   \\  	
+		DD-Net & 33.0753$\pm$0.2515 & 0.8324$\pm$0.0081    \\ 
+		DP-ResNet & 29.8253$\pm$0.2874 & 0.7441$\pm$0.0159  \\	  
+		Adaptive-Net & 31.7135$\pm$0.3483 & 0.7854$\pm$0.0151  \\	  	
+		EEDeepNet & 34.2187$\pm$0.5583 & 0.8706$\pm$0.0137  \\	
+		\bottomrule  	
+	\end{tabular}
+	\caption{不同方法的性能评价结果(均值$\pm$方差),最好的值用红色标出。(双域的话应该不止LDCT，但是先放在这做一个提醒作用，别忘了还要直接拿input 和 target去做对比)}
+	\label{tab1}
+\end{table}
