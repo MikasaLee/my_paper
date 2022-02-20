@@ -1,5 +1,8 @@
 \section{Introduction}
-This is introduction.This is introduction.This is introduction.This is introduction.This is introduction.This is introduction.This is introduction.This is introduction.This is introduction.This is introduction.This is introduction.
+计算机断层扫描(COMPUTED tomography, CT)由于能够在不破坏物体的情况下实现物体的内部视觉，已广泛应用于临床、工业和其他领域\cite{2018Deep}。但CT的电离辐射会对人体造成危害\cite{2012Hall}，这严重限制了它的实际应用。在临床诊断中，为了去降低辐射剂量和减少扫描时间而采用sparse view CT。然而，投影视图的缺陷给重建的图像带来ill-posed inverse problems\cite{1989Incomplete}。许多重建算法被提出用来解决这些问题，他们一般被分为3类：(a) sinogram domain pre-processing,(b) iterative algorithm, and (c)image domain post-processing.\par
+sinogram domain pre-processing首先对sinograms 进行上采样和去噪，然后再将它们转换成CT图像。在过去的几十年中，在singram domain中提出了非线性平滑\cite{2004Nonlinear}、结构自适应滤波\cite{2012Ray}和基于字典学习的图像修补方法\cite{2014Dictionary}方法用于上采样和去噪。然后再用经典的分析方法(en:classic analytical method)如filtered back-projection (FBP)\cite{kak2001principles}转换成CT图像。然而，由于重建对 sinogram domain中产生的误差很敏感，这些方法的性能往往会受到影响。\par
+除了简单的back projection和改进的FBP算法,在过去的几十年中，图像重建更多使用的是iterative algorithm。尤其是将压缩感知(CS)\cite{2006Robust}\cite{2006Donoho}引入到迭代重建中，CT图像质量大幅度提升。其中最著名的是总变异(TV)\cite{2008Image}。除此之外，iterative algorithm还包括 nonlocal means (NLM)\cite{2009Bayesian}，tight wavelet frames\cite{2011Multi}，dictionary learning\cite{2012Low,2019Convolutional}，low rank\cite{2014Cine} 以及TV之后的改进版\cite{2014Sparse,2016Statistical,2013Few}。然而，上述迭代重建方法由于计算量巨大以及难以调优的参数，导致其需要较长的计算时间以及很难去泛化不同的扫描方案或人体部位产生的不同图像。\par
+
 \subsection{title}
 This is introduction.This is introduction.This is introduction.This is introduction.This is introduction.This is introduction.\cite{redcnn}
 \subsubsection{title}

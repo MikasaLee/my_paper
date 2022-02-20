@@ -1,5 +1,32 @@
 \begin{thebibliography}{10}
 
+\bibitem{2018Deep}
+Mihalj Bakator and Dragica Radosav.
+\newblock Deep learning and medical diagnosis: A review of literature.
+\newblock {\em Multimodal Technologies and Interaction}, 2(3), 2018.
+
+\bibitem{2012Ray}
+M.~Balda, J.~Hornegger, and B.~Heismann.
+\newblock Ray contribution masks for structure adaptive sinogram filtering.
+\newblock {\em IEEE Transactions on Medical Imaging}, 31(6):1228--1239, 2012.
+
+\bibitem{2019Convolutional}
+P.~Bao, W.~Xia, K.~Yang, W.~Chen, M.~Chen, Y.~Xi, S.~Niu, J.~Zhou, H.~Zhang and H.~Sun.
+\newblock Convolutional sparse coding for compressed sensing ct reconstruction.
+\newblock {\em IEEE Transactions on Medical Imaging}, pages 1--1, 2019.
+
+\bibitem{2014Cine}
+J.~F. Cai, X.~Jia, H.~Gao, S.~B. Jiang, Z.~Shen, and H.~Zhao.
+\newblock Cine cone beam ct reconstruction using low-rank matrix factorization:
+  algorithm and a proof-of-princple study.
+\newblock {\em IEEE Trans Med Imaging}, 33(8):1581--1591, 2014.
+
+\bibitem{2006Robust}
+E.~J Candes, J~Romberg, and T~Tao.
+\newblock Robust uncertainty principles: exact signal reconstruction from
+  highly incomplete frequency information.
+\newblock {\em IEEE Transactions on Information Theory}, 52(2):489--509, 2006.
+
 \bibitem{redcnn}
 Hu~Chen, Yi~Zhang, Mannudeep Kalra, Feng Lin, Yang Chen, Peixi Liao, Jiliu
   Zhou, and Ge~Wang.
@@ -13,12 +40,30 @@ F.~Chollet.
 \newblock In {\em 2017 IEEE Conference on Computer Vision and Pattern
   Recognition (CVPR)}, 2017.
 
+\bibitem{2006Donoho}
+L.~David.
+\newblock Donoho. compressed sensing.
+\newblock {\em IEEE Transactions on Information Theory}, 52(4):1289--1306,
+  2006.
+
+\bibitem{2011Multi}
+H.~Gao, H.~Yu, S.~Osher, and G.~Wang.
+\newblock Multi-energy ct based on a prior rank, intensity and sparsity model
+  (prism).
+\newblock {\em Inverse Problems}, 27(11):115012--115033(22), 2011.
+
 \bibitem{2020ADAPTIVE}
 Y.~Ge, T.~Su, J.~Zhu, X.~Deng, Q.~Zhang, J.~Chen, Z.~Hu, H.~Zheng, and
   D.~Liang.
 \newblock Adaptive-net: deep computed tomography reconstruction network with
   analytical domain transformation knowledge.
 \newblock {\em Quantitative Imaging in Medicine and Surgery}, 10(2), 2020.
+
+\bibitem{2012Hall}
+E~J Hall and D~J Brenner.
+\newblock Hall ej, brenner djcancer risks from diagnostic radiology: the impact
+  of new epidemiological data. br j radiol 85(1020): e1316-e1317.
+\newblock {\em The British journal of radiology}, 85(1020):e1316--7, 2012.
 
 \bibitem{hendrycks2016gelu}
 Dan Hendrycks and Kevin Gimpel.
@@ -52,12 +97,29 @@ W.~S. Lai, J.~B. Huang, N.~Ahuja, and M.~H. Yang.
 \newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
   2017.
 
+\bibitem{2014Dictionary}
+S.~Li, Q.~Cao, Y.~Chen, Y.~Hu, L.~Luo, and C.~Toumoulin.
+\newblock Dictionary learning based sinogram inpainting for ct sparse
+  reconstruction.
+\newblock {\em Optik - International Journal for Light and Electron Optics},
+  125(12):2862--2867, 2014.
+
+\bibitem{2004Nonlinear}
+T.~Li, L.~Xiang, W.~Jing, J.~Wen, H.~Lu, H.~Jiang, and Z.~Liang.
+\newblock Nonlinear sinogram smoothing for low-dose x-ray ct.
+\newblock {\em Nuclear Science IEEE Transactions on}, 51(5):2505--2513, 2004.
+
 \bibitem{liu2021Swin}
 Ze~Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, and
   Baining Guo.
 \newblock Swin transformer: Hierarchical vision transformer using shifted
   windows.
 \newblock {\em International Conference on Computer Vision (ICCV)}, 2021.
+
+\bibitem{1989Incomplete}
+Alfred~K. Louis and Andreas Rieder.
+\newblock Incomplete data problems in x-ray computerized tomography.
+\newblock {\em Numerische Mathematik}, 56(4):371--383, 1989.
 
 \bibitem{2013Rectifier}
 Andrew~L Maas, Awni~Y Hannun, and Andrew~Y Ng.
@@ -70,10 +132,22 @@ Taylor~R Moen, Baiyu Chen, David~R Holmes~III, Xinhui Duan, Zhicong Yu, Lifeng
 \newblock Low-dose ct image and projection dataset.
 \newblock {\em Medical physics}, 48(2):902--911, 2021.
 
+\bibitem{2014Sparse}
+S.~Niu, Y.~Gao, Z.~Bian, J.~Huang, W.~Chen, G.~Yu, Z.~Liang, and J.~Ma.
+\newblock Sparse-view x-ray ct reconstruction via total generalized variation
+  regularization.
+\newblock {\em Physics in Medicine & Biology}, 59(12):2997, 2014.
+
 \bibitem{2015Unet}
 O.~Ronneberger, P.~Fischer, and T.~Brox.
 \newblock U-net: Convolutional networks for biomedical image segmentation.
 \newblock {\em Springer International Publishing}, 2015.
+
+\bibitem{2008Image}
+E.~Y. Sidky and X.~Pan.
+\newblock Image reconstruction in circular cone-beam computed tomography by
+  constrained, total-variation minimization.
+\newblock {\em Physics in Medicine & Biology}, 53(17):4777, 2008.
 
 \bibitem{2014Dropout}
 Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan
@@ -92,12 +166,36 @@ Zhendong Wang, Xiaodong Cun, Jianmin Bao, and Jianzhuang Liu.
 \newblock Uformer: A general u-shaped transformer for image restoration.
 \newblock {\em arXiv preprint 2106.03106}, 2021.
 
+\bibitem{2012Low}
+Q.~Xu, H.~Y. Yu, X.~Q. Mou, L.~Zhang, J.~Hsieh, and G.~Wang.
+\newblock Low-dose x-ray ct reconstruction via dictionary learning.
+\newblock {\em IEEE Transactions on Medical Imaging}, 2012.
+
+\bibitem{2009Bayesian}
+C.~Yang, D.~Gao, N.~Cong, L.~Luo, W.~Chen, X.~Yin, and Y.~Lin.
+\newblock Bayesian statistical reconstruction for low-dose x-ray computed
+  tomography using an adaptive-weighting nonlocal prior.
+\newblock {\em Computerized Medical Imaging & Graphics}, 33(7):495--500, 2009.
+
 \bibitem{2019DP-ResNet}
 Xiangrui Yin, Qianlong Zhao, Jin Liu, Wei Yang, Jian Yang, Guotao Quan, Yang
   Chen, Huazhong Shu, Limin Luo, and Jean-Louis Coatrieux.
 \newblock Domain progressive 3d residual convolution network to improve
   low-dose ct imaging.
 \newblock {\em IEEE Transactions on Medical Imaging}, 38(12):2903--2913, 2019.
+
+\bibitem{2016Statistical}
+Y.~Zhang, Y.~Wang, W.~Zhang, F.~Lin, Y.~Pu, and J.~Zhou.
+\newblock Statistical iterative reconstruction using adaptive fractional order
+  regularization.
+\newblock {\em Biomedical Optics Express}, 7(3):1015--1029, 2016.
+
+\bibitem{2013Few}
+Yi~Zhang, Wei~Hua Zhang, Hu~Chen, Meng~Long Yang, Tai~Yong Li, and Ji~Liu Zhou.
+\newblock Few‐view image reconstruction combining total variation and a
+  high‐order norm.
+\newblock {\em International Journal of Imaging Systems & Technology},
+  23(3):249--255, 2013.
 
 \bibitem{2018DDNet}
 Zhicheng Zhang, Xiaokun Liang, Xu~Dong, Yaoqin Xie, and Guohua Cao.

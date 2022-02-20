@@ -8,7 +8,7 @@
 	\caption{PLformer的整体架构，该网络有三个阶段：Sinogram Domain SubNet,Filter BackProjection(FBP),和Image Domain SubNet。}
 	\label{fig1}
 \end{figure}
-网络整体由三个阶段组成，首先通过Sinogram Domain SubNet对双线性插值后的稀疏正弦图进行重建，然后通过FBP\cite{kak2001principles}算法完成投影域到图像域的转换，最后通过Image Domain SubNet重建出高质量的CT图片。
+网络整体由三个阶段组成，首先通过Sinogram Domain SubNet对双线性插值后的稀疏正弦图进行重建，然后通过FBP算法完成投影域到图像域的转换，最后通过Image Domain SubNet重建出高质量的CT图片。
 \subsection{Parallel LeWinTransformer Block(PLB)}
 过去基于卷积的神经网络的特征提取是非常成功的，但卷积操作需要不断堆积卷积层来完成对图像从局部信息到全局信息的提取，不断堆积的卷积层慢慢地扩大了感受野直至覆盖整个图像。但是transformer并不假定从局部信息开始，而且一开始就可以拿到全局信息，尽管训练难度更大一些(如所需要的数据集要更大些，以及所需要学习的参数量更多)，但是一旦完成好训练，更早得到全局信息的优势会使得效果更好。受到Swin Transformer\cite{liu2021Swin}以及Uformer\cite{wang2021uformer}的启发，我们使用由 non-overlapping window-based Multi-head Self-Attention (W-MSA) 和 Locally-enhanced Feed-Forward Network (LeFF) 所组成的 locally-enhanced window (LeWin) Transformer 来获取图像信息，其中W-MSA用来捕获全局信息，而LeFF用来捕获局部信息。LeWin Transformer的计算表示为
 ：
