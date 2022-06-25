@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: en_v2.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: ct_reconstruction.bib
+"{" immediately follows a field name---line 14 of file ct_reconstruction.bib
+ :  \textbf
+ :         {j}ournal = {IEEE Transactions on Medical Imaging},
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in redcnn
+Warning--empty journal in 2013Rectifier
+
+Done.
+You've used 48 entries,
+            4087 wiz_defined-function locations,
+            1112 strings with 16982 characters,
+and the built_in function-call counts, 39716 in all, are:
+= -- 3117
+> -- 1277
+< -- 318
++ -- 707
+- -- 262
+* -- 1956
+:= -- 5754
+add.period$ -- 96
+call.type$ -- 48
+change.case$ -- 47
+chr.to.int$ -- 696
+cite$ -- 50
+duplicate$ -- 2846
+empty$ -- 2929
+format.name$ -- 295
+if$ -- 9284
+int.to.chr$ -- 0
+int.to.str$ -- 48
+missing$ -- 534
+newline$ -- 167
+num.names$ -- 48
+pop$ -- 1247
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 3033
+stack$ -- 0
+substring$ -- 1735
+swap$ -- 2404
+text.length$ -- 86
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 48
+warning$ -- 2
+while$ -- 135
+width$ -- 50
+write$ -- 489
+(There was 1 error message)

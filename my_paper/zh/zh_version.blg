@@ -1,48 +1,53 @@
-This is BibTeX, Version 0.99d (TeX Live 2021/W32TeX)
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: zh_version.aux
 The style file: plain.bst
 Database file #1: ct_reconstruction.bib
+"{" immediately follows a field name---line 14 of file ct_reconstruction.bib
+ :  \textbf
+ :         {j}ournal = {IEEE Transactions on Medical Imaging},
+I'm skipping whatever remains of this entry
+Warning--empty journal in redcnn
 Warning--empty journal in 2013Rectifier
-You've used 35 entries,
+You've used 50 entries,
             2118 wiz_defined-function locations,
-            727 strings with 10850 characters,
-and the built_in function-call counts, 13634 in all, are:
-= -- 1230
-> -- 948
-< -- 1
-+ -- 375
-- -- 338
-* -- 1157
-:= -- 2407
-add.period$ -- 105
-call.type$ -- 35
-change.case$ -- 273
+            799 strings with 13989 characters,
+and the built_in function-call counts, 19892 in all, are:
+= -- 1793
+> -- 1411
+< -- 3
++ -- 560
+- -- 506
+* -- 1663
+:= -- 3496
+add.period$ -- 150
+call.type$ -- 50
+change.case$ -- 402
 chr.to.int$ -- 0
-cite$ -- 36
-duplicate$ -- 383
-empty$ -- 859
-format.name$ -- 338
-if$ -- 2690
+cite$ -- 52
+duplicate$ -- 571
+empty$ -- 1226
+format.name$ -- 506
+if$ -- 3931
 int.to.chr$ -- 0
-int.to.str$ -- 35
-missing$ -- 36
-newline$ -- 178
-num.names$ -- 70
-pop$ -- 238
+int.to.str$ -- 50
+missing$ -- 51
+newline$ -- 253
+num.names$ -- 100
+pop$ -- 364
 preamble$ -- 1
-purify$ -- 239
+purify$ -- 353
 quote$ -- 0
-skip$ -- 258
+skip$ -- 398
 stack$ -- 0
-substring$ -- 718
-swap$ -- 40
-text.length$ -- 1
+substring$ -- 1000
+swap$ -- 80
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 138
-warning$ -- 1
-while$ -- 94
-width$ -- 37
-write$ -- 375
-(There was 1 warning)
+type$ -- 198
+warning$ -- 2
+while$ -- 135
+width$ -- 52
+write$ -- 532
+(There was 1 error message)

@@ -1,0 +1,286 @@
+\begin{thebibliography}{10}
+
+\bibitem{2006ksvd}
+M.~Aharon, M.~Elad, and A.~Bruckstein.
+\newblock $rm k$-svd: An algorithm for designing overcomplete dictionaries for
+  sparse representation.
+\newblock {\em IEEE Transactions on Signal Processing}, 54:4311--4322, 2006.
+
+\bibitem{ba2016layer}
+Jimmy~Lei Ba, Jamie~Ryan Kiros, and Geoffrey~E Hinton.
+\newblock Layer normalization.
+\newblock {\em arXiv preprint arXiv:1607.06450}, 2016.
+
+\bibitem{2018Deep}
+Mihalj Bakator and Dragica Radosav.
+\newblock Deep learning and medical diagnosis: A review of literature.
+\newblock {\em Multimodal Technologies and Interaction}, 2(3), 2018.
+
+\bibitem{2012Ray}
+M.~Balda, J.~Hornegger, and B.~Heismann.
+\newblock Ray contribution masks for structure adaptive sinogram filtering.
+\newblock {\em IEEE Transactions on Medical Imaging}, 31(6):1228--1239, 2012.
+
+\bibitem{2019Convolutional}
+P.~Bao, W.~Xia, K.~Yang, W.~Chen, M.~Chen, Y.~Xi, S.~Niu, Zhou. J, H.~Zhang,
+  and H.~Sun.
+\newblock Convolutional sparse coding for compressed sensing ct reconstruction.
+\newblock {\em IEEE Transactions on Medical Imaging}, pages 1--1, 2019.
+
+\bibitem{2014Cine}
+J.~F. Cai, X.~Jia, H.~Gao, S.~B. Jiang, Z.~Shen, and H.~Zhao.
+\newblock Cine cone beam ct reconstruction using low-rank matrix factorization:
+  algorithm and a proof-of-princple study.
+\newblock {\em IEEE Trans Med Imaging}, 33(8):1581--1591, 2014.
+
+\bibitem{2006Robust}
+E.~J Candes, J~Romberg, and T~Tao.
+\newblock Robust uncertainty principles: exact signal reconstruction from
+  highly incomplete frequency information.
+\newblock {\em IEEE Transactions on Information Theory}, 52(2):489--509, 2006.
+
+\bibitem{chen2021pre}
+Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei
+  Ma, Chunjing Xu, Chao Xu, and Wen Gao.
+\newblock Pre-trained image processing transformer.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition}, pages 12299--12310, 2021.
+
+\bibitem{2018LEARN}
+Hu~Chen, Yi~Zhang, Yunjin Chen, Junfeng Zhang, Weihua Zhang, Huaiqiang Sun,
+  Yang Lv, Peixi Liao, Jiliu Zhou, and Ge~Wang.
+\newblock Learn: Learned experts' assessment-based reconstruction network for
+  sparse-data ct.
+\newblock {\em IEEE Transactions on Medical Imaging}, PP(99):1--1, 2018.
+
+\bibitem{redcnn}
+Hu~Chen, Yi~Zhang, Mannudeep Kalra, Feng Lin, Yang Chen, Peixi Liao, Jiliu
+  Zhou, and Ge~Wang.
+\newblock Low-dose ct with a residual encoder-decoder convolutional neural
+  network.
+\newblock 36:2524--2535, 06 2017.
+
+\bibitem{2017Xception}
+F.~Chollet.
+\newblock Xception: Deep learning with depthwise separable convolutions.
+\newblock In {\em 2017 IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, 2017.
+
+\bibitem{2006Donoho}
+L.~David.
+\newblock Donoho. compressed sensing.
+\newblock {\em IEEE Transactions on Information Theory}, 52(4):1289--1306,
+  2006.
+
+\bibitem{2009ImageNet}
+Jia Deng, Wei Dong, Richard Socher, Li~Jia Li, Kai Li, and Fei~Fei Dept.
+\newblock Imagenet : A large-scale hierarchical image database.
+\newblock {\em Proc. CVPR, 2009}, 2009.
+
+\bibitem{dosovitskiy2020vit}
+Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn,
+  Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg
+  Heigold, Sylvain Gelly, Jakob Uszkoreit, and Neil Houlsby.
+\newblock An image is worth 16x16 words: Transformers for image recognition at
+  scale.
+\newblock {\em ICLR}, 2021.
+
+\bibitem{2011Multi}
+H.~Gao, H.~Yu, S.~Osher, and G.~Wang.
+\newblock Multi-energy ct based on a prior rank, intensity and sparsity model
+  (prism).
+\newblock {\em Inverse Problems}, 27(11):115012--115033(22), 2011.
+
+\bibitem{2020ADAPTIVE}
+Y.~Ge, T.~Su, J.~Zhu, X.~Deng, Q.~Zhang, J.~Chen, Z.~Hu, H.~Zheng, and
+  D.~Liang.
+\newblock Adaptive-net: deep computed tomography reconstruction network with
+  analytical domain transformation knowledge.
+\newblock {\em Quantitative Imaging in Medicine and Surgery}, 10(2), 2020.
+
+\bibitem{2012Hall}
+E~J Hall and D~J Brenner.
+\newblock Hall ej, brenner djcancer risks from diagnostic radiology: the impact
+  of new epidemiological data. br j radiol 85(1020): e1316-e1317.
+\newblock {\em The British journal of radiology}, 85(1020):e1316--7, 2012.
+
+\bibitem{2016Sparse}
+Y.~S. Han, K.~H. Jin, K.~Kim, and J.~C. Ye.
+\newblock Sparse-view x-ray spectral ct reconstruction using annihilating
+  filter-based low rank hankel matrix approach.
+\newblock In {\em IEEE International Symposium on Biomedical Imaging}, 2016.
+
+\bibitem{2016DenseNet}
+G.~Huang, Z.~Liu, Vdm Laurens, and K.~Q. Weinberger.
+\newblock Densely connected convolutional networks.
+\newblock {\em IEEE Computer Society}, 2016.
+
+\bibitem{2016FBPConvNet}
+K.~H. Jin, M.~T. Mccann, E.~Froustey, and M.~Unser.
+\newblock Deep convolutional neural network for inverse problems in imaging.
+\newblock {\em IEEE Transactions on Image Processing}, PP(99):4509--4522, 2016.
+
+\bibitem{kak2001principles}
+Avinash~C Kak and Malcolm Slaney.
+\newblock {\em Principles of computerized tomographic imaging}.
+\newblock SIAM, 2001.
+
+\bibitem{8332971}
+Eunhee Kang, Won Chang, Jaejun Yoo, and Jong~Chul Ye.
+\newblock Deep convolutional framelet denosing for low-dose ct via wavelet
+  residual network.
+\newblock {\em IEEE Transactions on Medical Imaging}, 37(6):1358--1369, 2018.
+
+\bibitem{2014Adam}
+D.~Kingma and J.~Ba.
+\newblock Adam: A method for stochastic optimization.
+\newblock {\em Computer Science}, 2014.
+
+\bibitem{2017Fast}
+W.~S. Lai, J.~B. Huang, N.~Ahuja, and M.~H. Yang.
+\newblock Fast and accurate image super-resolution with deep laplacian pyramid
+  networks.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  2017.
+
+\bibitem{2014Dictionary}
+S.~Li, Q.~Cao, Y.~Chen, Y.~Hu, L.~Luo, and C.~Toumoulin.
+\newblock Dictionary learning based sinogram inpainting for ct sparse
+  reconstruction.
+\newblock {\em Optik - International Journal for Light and Electron Optics},
+  125(12):2862--2867, 2014.
+
+\bibitem{2004Nonlinear}
+T.~Li, L.~Xiang, W.~Jing, J.~Wen, H.~Lu, H.~Jiang, and Z.~Liang.
+\newblock Nonlinear sinogram smoothing for low-dose x-ray ct.
+\newblock {\em Nuclear Science IEEE Transactions on}, 51(5):2505--2513, 2004.
+
+\bibitem{liu2021Swin}
+Ze~Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, and
+  Baining Guo.
+\newblock Swin transformer: Hierarchical vision transformer using shifted
+  windows.
+\newblock {\em International Conference on Computer Vision (ICCV)}, 2021.
+
+\bibitem{1989Incomplete}
+Alfred~K. Louis and Andreas Rieder.
+\newblock Incomplete data problems in x-ray computerized tomography.
+\newblock {\em Numerische Mathematik}, 56(4):371--383, 1989.
+
+\bibitem{2021Eformer}
+A.~Luthra, H.~Sulakhe, T.~Mittal, A.~Iyer, and S.~Yadav.
+\newblock Eformer: Edge enhancement based transformer for medical image
+  denoising.
+\newblock {\em arXiv e-prints}, 2021.
+
+\bibitem{2013Rectifier}
+Andrew~L Maas, Awni~Y Hannun, and Andrew~Y Ng.
+\newblock Rectifier nonlinearities improve neural network acoustic models.
+\newblock 2013.
+
+\bibitem{mccollough2016tu}
+Cynthia McCollough and Samuel Armato.
+\newblock Tu-fg-207a-00: Grand challenges in medical imaging and radiomics.
+\newblock {\em Medical Physics}, 43(6Part35):3759--3760, 2016.
+
+\bibitem{moen2021low}
+Taylor~R Moen, Baiyu Chen, David~R Holmes~III, Xinhui Duan, Zhicong Yu, Lifeng
+  Yu, Shuai Leng, Joel~G Fletcher, and Cynthia~H McCollough.
+\newblock Low-dose ct image and projection dataset.
+\newblock {\em Medical physics}, 48(2):902--911, 2021.
+
+\bibitem{2014Sparse}
+S.~Niu, Y.~Gao, Z.~Bian, J.~Huang, W.~Chen, G.~Yu, Z.~Liang, and J.~Ma.
+\newblock Sparse-view x-ray ct reconstruction via total generalized variation
+  regularization.
+\newblock {\em Physics in Medicine and Biology}, 59(12):2997, 2014.
+
+\bibitem{torch_radon}
+Matteo Ronchetti.
+\newblock Torchradon: Fast differentiable routines for computed tomography.
+\newblock {\em arXiv preprint arXiv:2009.14788}, 2020.
+
+\bibitem{2015Unet}
+O.~Ronneberger, P.~Fischer, and T.~Brox.
+\newblock U-net: Convolutional networks for biomedical image segmentation.
+\newblock {\em Springer International Publishing}, 2015.
+
+\bibitem{2008Image}
+E.~Y. Sidky and X.~Pan.
+\newblock Image reconstruction in circular cone-beam computed tomography by
+  constrained, total-variation minimization.
+\newblock {\em Physics in Medicine \& Biology}, 53(17):4777, 2008.
+
+\bibitem{2014Dropout}
+Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan
+  Salakhutdinov.
+\newblock Dropout: A simple way to prevent neural networks from overfitting.
+\newblock {\em Journal of Machine Learning Research}, 15(1):1929--1958, 2014.
+
+\bibitem{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N Gomez, {\L}ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock {\em Advances in neural information processing systems}, 30, 2017.
+
+\bibitem{2020An}
+W.~Wang, X.~G. Xia, C.~He, Z.~Ren, and B.~Lei.
+\newblock An end-to-end deep network for reconstructing ct images directly from
+  sparse sinograms.
+\newblock {\em IEEE Transactions on Computational Imaging}, 6:1548--1560, 2020.
+
+\bibitem{wang2021uformer}
+Zhendong Wang, Xiaodong Cun, Jianmin Bao, and Jianzhuang Liu.
+\newblock Uformer: A general u-shaped transformer for image restoration.
+\newblock {\em arXiv preprint 2106.03106}, 2021.
+
+\bibitem{2017Generative}
+Jelmer~M. Wolterink, Tim Leiner, Max~A. Viergever, and Ivana Išgum.
+\newblock Generative adversarial networks for noise reduction in low-dose ct.
+\newblock {\em IEEE Transactions on Medical Imaging}, 36(12):2536--2545, 2017.
+
+\bibitem{2012Low}
+Q.~Xu, H.~Y. Yu, X.~Q. Mou, L.~Zhang, J.~Hsieh, and G.~Wang.
+\newblock Low-dose x-ray ct reconstruction via dictionary learning.
+\newblock {\em IEEE Transactions on Medical Imaging}, 2012.
+
+\bibitem{2009Bayesian}
+C.~Yang, D.~Gao, N.~Cong, L.~Luo, W.~Chen, X.~Yin, and Y.~Lin.
+\newblock Bayesian statistical reconstruction for low-dose x-ray computed
+  tomography using an adaptive-weighting nonlocal prior.
+\newblock {\em Computerized Medical Imaging \& Graphics}, 33(7):495--500, 2009.
+
+\bibitem{2018Low}
+Q.~Yang, P.~Yan, Y.~Zhang, H.~Yu, Y.~Shi, X.~Mou, M.~K. Kalra, Y.~Zhang,
+  L.~Sun, and G.~Wang.
+\newblock Low-dose ct image denoising using a generative adversarial network
+  with wasserstein distance and perceptual loss.
+\newblock {\em IEEE Transactions on Medical Imaging}, pages 1348--1357, 2018.
+
+\bibitem{2019DP-ResNet}
+Xiangrui Yin, Qianlong Zhao, Jin Liu, Wei Yang, Jian Yang, Guotao Quan, Yang
+  Chen, Huazhong Shu, Limin Luo, and Jean-Louis Coatrieux.
+\newblock Domain progressive 3d residual convolution network to improve
+  low-dose ct imaging.
+\newblock {\em IEEE Transactions on Medical Imaging}, 38(12):2903--2913, 2019.
+
+\bibitem{2016Statistical}
+Y.~Zhang, Y.~Wang, W.~Zhang, F.~Lin, Y.~Pu, and J.~Zhou.
+\newblock Statistical iterative reconstruction using adaptive fractional order
+  regularization.
+\newblock {\em Biomedical Optics Express}, 7(3):1015--1029, 2016.
+
+\bibitem{2013Few}
+Yi~Zhang, Wei~Hua Zhang, Hu~Chen, Meng~Long Yang, Tai~Yong Li, and Ji~Liu Zhou.
+\newblock Few‐view image reconstruction combining total variation and a
+  high‐order norm.
+\newblock {\em International Journal of Imaging Systems and Technology},
+  23(3):249--255, 2013.
+
+\bibitem{2018DDNet}
+Zhicheng Zhang, Xiaokun Liang, Xu~Dong, Yaoqin Xie, and Guohua Cao.
+\newblock A sparse-view ct reconstruction method based on combination of
+  densenet and deconvolution.
+\newblock {\em IEEE Transactions on Medical Imaging}, 37(6):1407--1417, 2018.
+
+\end{thebibliography}

@@ -1,0 +1,898 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.9.20)  12 APR 2022 15:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**en_version.tex
+(./en_version.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen134
+\@IEEEtrantmpdimenB=\dimen135
+\@IEEEtrantmpdimenC=\dimen136
+\@IEEEtrantmpcountA=\count163
+\@IEEEtrantmpcountB=\count164
+\@IEEEtrantmpcountC=\count165
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 50
+3.
+LaTeX Font Info:    No file TUptm.fd. on input line 503.
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 503.
+
+-- Using 8.5in x 11in (letter) paper.
+-- Using DVI output.
+\@IEEEnormalsizeunitybaselineskip=\dimen137
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen138
+\CLASSINFOnormalsizeunitybaselineskip=\dimen139
+\IEEEnormaljot=\dimen140
+
+LaTeX Font Warning: Font shape `TU/ptm/bx/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 1090.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 1090.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/bx/it' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 1090.
+
+\IEEEquantizedlength=\dimen141
+\IEEEquantizedlengthdiff=\dimen142
+\IEEEquantizedtextheightdiff=\dimen143
+\IEEEilabelindentA=\dimen144
+\IEEEilabelindentB=\dimen145
+\IEEEilabelindent=\dimen146
+\IEEEelabelindent=\dimen147
+\IEEEdlabelindent=\dimen148
+\IEEElabelindent=\dimen149
+\IEEEiednormlabelsep=\dimen150
+\IEEEiedmathlabelsep=\dimen151
+\IEEEiedtopsep=\skip47
+\c@section=\count166
+\c@subsection=\count167
+\c@subsubsection=\count168
+\c@paragraph=\count169
+\c@IEEEsubequation=\count170
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count171
+\c@table=\count172
+\@IEEEeqnnumcols=\count173
+\@IEEEeqncolcnt=\count174
+\@IEEEsubeqnnumrollback=\count175
+\@IEEEquantizeheightA=\dimen152
+\@IEEEquantizeheightB=\dimen153
+\@IEEEquantizeheightC=\dimen154
+\@IEEEquantizeprevdepth=\dimen155
+\@IEEEquantizemultiple=\count176
+\@IEEEquantizeboxA=\box45
+\@IEEEtmpitemindent=\dimen156
+\IEEEPARstartletwidth=\dimen157
+\c@IEEEbiography=\count177
+\@IEEEtranrubishbin=\box46
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen158
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen159
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count178
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count179
+\leftroot@=\count180
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count181
+\DOTSCASE@=\count182
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen160
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count183
+\c@MaxMatrixCols=\count184
+\dotsspace@=\muskip16
+\c@parentequation=\count185
+\dspbrk@lvl=\count186
+\tag@help=\toks16
+\row@=\count187
+\column@=\count188
+\maxfields@=\count189
+\andhelp@=\toks17
+\eqnshift@=\dimen161
+\alignsep@=\dimen162
+\tagshift@=\dimen163
+\tagwidth@=\dimen164
+\totwidth@=\dimen165
+\lineht@=\dimen166
+\@envbody=\toks18
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+\c@ALC@unique=\count190
+\c@ALC@line=\count191
+\c@ALC@rem=\count192
+\c@ALC@depth=\count193
+\ALC@tlm=\skip53
+\algorithmicindent=\skip54
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen167
+\ar@mcellbox=\box49
+\extrarowheight=\dimen168
+\NC@list=\toks21
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box50
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen169
+\captionmargin@=\dimen170
+\captionwidth=\dimen171
+\caption@tempdima=\dimen172
+\caption@indent=\dimen173
+\caption@parindent=\dimen174
+\caption@hangindent=\dimen175
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\norma
+lfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace
+ {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptio
+nsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspac
+e \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\nor
+malfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\n
+ormalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONcon
+ference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }
+\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi 
+\fi  on input line 1082.
+)
+\c@KVtest=\count194
+\sf@farskip=\skip57
+\sf@captopadj=\dimen176
+\sf@capskip=\skip58
+\sf@nearskip=\skip59
+\c@subfigure=\count195
+\c@subfigure@save=\count196
+\c@lofdepth=\count197
+\c@subtable=\count198
+\c@subtable@save=\count199
+\c@lotdepth=\count266
+\sf@top=\skip60
+\sf@bottom=\skip61
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty
+Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
+ings
+\@dblbotnum=\count267
+\c@dblbotnumber=\count268
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks22
+\verbatim@line=\toks23
+\verbatim@in@stream=\read2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen177
+\Gin@req@width=\dimen178
+)
+(/usr/share/texlive/texmf-dist/tex/latex/preprint/balance.sty
+Package: balance 1999/02/23 4.3 (PWD)
+\oldvsize=\dimen179
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-02-03 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count269
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count270
+\g__pdf_backend_annotation_int=\count271
+)
+(./en_version.aux)
+\openout1 = `en_version.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+6.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 16.
+
+-- Lines per column: 58 (exact).
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 29.
+
+Missing character: There is no ： in font [lmroman9-regular]:mapping=tex-text;!
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 33.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sc' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 37.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 38.
+
+Missing character: There is no 计 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 算 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 机 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 断 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 层 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 扫 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 描 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 由 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 于 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 能 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 够 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 不 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 破 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 坏 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 物 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 体 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 情 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 况 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 下 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 实 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 现 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 物 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 体 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 内 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 部 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 视 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 觉 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 已 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 广 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 泛 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 应 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 用 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 于 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 临 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 床 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 、 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 工 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 业 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 和 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 其 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 他 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 领 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 域 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 但 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 电 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 离 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 辐 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 射 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 会 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 对 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 人 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 体 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 造 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 成 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 危 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 害 in font [lmroman10-regular]:mapping=tex-text;!
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 43.
+
+
+LaTeX Warning: Citation `2012Hall' on page 1 undefined on input line 43.
+
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 这 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 严 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 重 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 限 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 制 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 了 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 它 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 实 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 际 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 应 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 用 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 临 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 床 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 诊 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 断 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 中 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 为 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 了 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 去 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 降 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 低 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 辐 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 射 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 剂 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 量 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 和 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 减 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 少 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 扫 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 描 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 时 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 间 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 而 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 采 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 用 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 然 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 而 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 投 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 影 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 视 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 图 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 缺 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 陷 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 给 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 重 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 建 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 图 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 像 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 带 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 来 in font [lmroman10-regular]:mapping=tex-text;!
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 43.
+
+
+LaTeX Warning: Citation `1989Incomplete' on page 1 undefined on input line 43.
+
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 许 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 多 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 重 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 建 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 算 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 法 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 被 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 提 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 出 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 用 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 来 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 解 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 决 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 这 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 些 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 问 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 题 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 他 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 们 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 一 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 般 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 被 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 分 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 为 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 类 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ： in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+[]\TU/ptm/bx/it/10 计算机断层扫描(COMPUTED tomography,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+\TU/ptm/bx/it/10 CT)由于能够在不破坏物体的情况下实现物体的内部视觉，已广泛应用于临床、工业和其他领域 [2]。但CT的电离辐射会对人体造成
+危害
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+\TU/ptm/bx/it/10 [?]，这严重限制了它的实际应用。在临床诊断中，为了去降低辐射剂量和减少扫描时间而采用sparse view
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+\TU/ptm/bx/it/10 CT。然而，投影视图的缺陷给重建的图像带来ill-posed inverse problems
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+\TU/ptm/bx/it/10 [?]。许多重建算法被提出用来解决这些问题，他们一般被分为3类：(a) sinogram domain pre-
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 60.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 60.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 63.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 63.
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 66--67
+\TU/ptm/m/sc/10 IEEE recommends using the distribution from the
+ []
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 69.
+
+[1
+
+
+]
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 83
+.
+
+No file TUpcr.fd.
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 83.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 122--124
+\TU/pcr/m/n/10 identify IEEE membership status. Please see the
+ []
+
+
+Underfull \hbox (badness 1874) in paragraph at lines 155--156
+\TU/pcr/m/n/10 The following sections describe common body text
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+
+ []
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 187.
+
+
+LaTeX Warning: Citation `oxford' on page 3 undefined on input line 187.
+
+File: fig1.png Graphic file (type bmp)
+<fig1.png>
+
+Underfull \hbox (badness 2573) in paragraph at lines 276--277
+\TU/pcr/m/n/10 simple unnumbered, numbered and bulleted. There
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+
+ []
+
+[3]
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 278.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 298.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 318.
+
+
+Underfull \hbox (badness 4967) in paragraph at lines 346--347
+\TU/pcr/m/n/10 elements such as Acknowledgments, Bibliographies,
+ []
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 358.
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 358--359
+\TU/pcr/m/n/10 References Simplified: A simple way of composing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--359
+
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 372--373
+\TU/pcr/m/n/10 [7] A. Levant.“Exact differentiation of signals with
+ []
+
+
+Underfull \hbox (badness 7362) in paragraph at lines 397--398
+\TU/pcr/m/n/10 [9] R. Ortega, A. Astolfi, G. Bastin, and H.
+ []
+
+[4]
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 411.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 447.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
+[]\TU/pcr/m/n/10 AMS-StyleGuide-online.pdf, published by the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
+[][][][][][][][][][][][][][][][] [] [][][][] [] [][][] [] [][][][][][][][][][][
+] [] [][][][][][][] [] [][][][][] [] [] []
+ []
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 485.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--487
+
+ []
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 488.
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 488--490
+\TU/pcr/m/n/10 numbered equations is best in the Appendix, but
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 488--490
+
+ []
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 491.
+
+[5]
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 497.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 513.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--545
+\TU/pcr/m/n/10 The amsmath package provides a subequations
+ []
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 569.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 582.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 595.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 608.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 620.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 632.
+
+[6]
+Underfull \hbox (badness 1609) in paragraph at lines 706--707
+\TU/pcr/m/n/10 Many times we find cases coded using the wrong
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 758--759
+
+ []
+
+[7]
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 760.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 763--764
+
+ []
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 765.
+
+
+Underfull \hbox (badness 2435) in paragraph at lines 765--766
+[]\TU/pcr/m/n/10 For multiline unnumbered display equations that
+ []
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 770.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 775.
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 834--835
+[]\TU/pcr/m/n/10 Make sure that your equations are numbered
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 835--836
+[]\TU/pcr/m/n/10 Are your equations properly formatted? Text,
+ []
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 868.
+
+
+Package balance Warning: You have called \balance in second column
+(balance)                Columns might not be balanced.
+
+[8]
+File: fig1.png Graphic file (type bmp)
+<fig1.png>
+File: fig1.png Graphic file (type bmp)
+<fig1.png>
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 872.
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 872--873
+\TU/ptm/m/sc/8 professional background and research and
+ []
+
+[9] (./en_version.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3589 strings out of 479819
+ 58541 string characters out of 5895846
+ 315754 words of memory out of 5000000
+ 20664 multiletter control sequences out of 15000+600000
+ 537241 words of font info for 57 fonts, out of 8000000 for 9000
+ 1352 hyphenation exceptions out of 8191
+ 41i,11n,42p,1628b,293s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on en_version.pdf (9 pages).

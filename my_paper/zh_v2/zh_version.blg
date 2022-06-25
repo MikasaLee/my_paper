@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: zh_version.aux
+The style file: plain.bst
+Database file #1: ct_reconstruction.bib
+"{" immediately follows a field name---line 14 of file ct_reconstruction.bib
+ :  \textbf
+ :         {j}ournal = {IEEE Transactions on Medical Imaging},
+I'm skipping whatever remains of this entry
+Warning--empty journal in redcnn
+Warning--empty journal in 2013Rectifier
+You've used 48 entries,
+            2118 wiz_defined-function locations,
+            792 strings with 13668 characters,
+and the built_in function-call counts, 19415 in all, are:
+= -- 1748
+> -- 1386
+< -- 3
++ -- 549
+- -- 498
+* -- 1638
+:= -- 3406
+add.period$ -- 144
+call.type$ -- 48
+change.case$ -- 392
+chr.to.int$ -- 0
+cite$ -- 50
+duplicate$ -- 551
+empty$ -- 1192
+format.name$ -- 498
+if$ -- 3837
+int.to.chr$ -- 0
+int.to.str$ -- 48
+missing$ -- 49
+newline$ -- 243
+num.names$ -- 96
+pop$ -- 354
+preamble$ -- 1
+purify$ -- 345
+quote$ -- 0
+skip$ -- 384
+stack$ -- 0
+substring$ -- 989
+swap$ -- 78
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 190
+warning$ -- 2
+while$ -- 131
+width$ -- 50
+write$ -- 512
+(There was 1 error message)
